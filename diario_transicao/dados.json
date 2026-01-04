@@ -1,0 +1,27 @@
+{
+    "ciclo": 21,
+    "hormonio": [
+        {
+            "data": "19/01/2025",
+            "ciclo": 21,
+            "proxima": "09/02/2025"
+        },
+        {
+            "data": "08/01/2026",
+            "ciclo": 21,
+            "proxima": "29/01/2026"
+        }
+    ],
+    "disforia": [
+        {
+            "data": "04/01/2026",
+            "nivel": 8,
+            "descricao": "Alta"
+        },
+        {
+            "data": "04/01/2026",
+            "nivel": 8,
+            "descricao": "Alta"
+        }
+    ]
+}

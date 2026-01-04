@@ -1,10 +1,10 @@
-##🏳️‍⚧️ Diário de Transição
+# 🏳️‍⚧️ Diário de Transição
 
 Um aplicativo simples e acessível para acompanhar a transição hormonal, registrar níveis de disforia e visualizar a evolução emocional ao longo do tempo.
 
 Desenvolvido com foco em autonomia, organização e cuidado pessoal, especialmente para pessoas trans que fazem acompanhamento hormonal.
 
-##🎯 Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 
 O Diário de Transição tem como objetivo ajudar a pessoa usuária a:
 
@@ -18,10 +18,10 @@ O Diário de Transição tem como objetivo ajudar a pessoa usuária a:
 
 - Manter um histórico persistente, mesmo após fechar o app
 
-##🧠 Funcionalidades:
+# 🧠 Funcionalidades:
 
 
-##🔁 Ciclo Hormonal
+# 🔁 Ciclo Hormonal
 
 - Definição do ciclo em dias (ex: 21, 30, etc.)
 
@@ -35,38 +35,51 @@ O Diário de Transição tem como objetivo ajudar a pessoa usuária a:
 
 - Histórico de aplicações
 
-##💙 Registro de Disforia
+## 💙 Registro de Disforia
 
-Escala de 0 a 10
+- Escala de 0 a 10
 
 Classificação automática:
 
-Muito baixa
+- Muito baixa
 
-Baixa
+- Baixa
 
-Moderada
+- Moderada
 
-Alta
+- Alta
 
-Muito alta
+- Muito alta
 
-Registro com data
+## Registro com data
 
-📈 Gráfico de Evolução
+# 📈 Gráfico de Evolução
 
 Visualização da disforia ao longo do tempo
 
 Facilita o autoconhecimento e acompanhamento emocional
 
-🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 
-Python 3
+- Python 3
 
-Streamlit – interface web simples e rápida
+- Streamlit – interface web simples e rápida
 
-JSON – persistência dos dados
+- JSON – persistência dos dados
 
-Pandas – organização dos registros
+- Pandas – organização dos registros
 
-Matplotlib – visualização gráfica
+- Matplotlib – visualização gráfica
+
+### 🔜 PRÓXIMOS UPGRADES
+#
+
+- média semanal da disforia
+
+- alertas visuais pós-aplicação
+
+- exportar PDF automático
+
+- modo anônimo / senha
+
+- versão mobile-first
